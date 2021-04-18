@@ -1,7 +1,7 @@
 # 0️⃣1️⃣ Number_systems_calculator
-This project is a calculator with inputs of any number system( decimal, binary, hexadecimal and octal). You can use any basic arithmetic operation like sum, subtraction, multiplication, division and potentiation. The basics operations did build with python in Jupyter notebook.
+This project is a calculator with inputs of any number system( decimal, binary, hexadecimal and octal). You can use any basic arithmetic operation like sum, subtraction, multiplication, division and potentiation. The basics operations was build with python in Jupyter notebook.
 
-The graphical interface did build with the library of Tkinter. This graphical interface has two inputs where you can put any number system and then change to the binary system so that the arithmetic operation run. The result is obtained when the operation is defined.
+The graphical interface was build with the library of Tkinter. This graphical interface has two inputs where you can put any number system and then change to the binary system so that the arithmetic operation run. The result is obtained when the operation is defined.
 
 This is the interface:
 
